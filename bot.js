@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'SAKSHAM_69.aternos.me', // Replace with your Aternos IP
     port: 35103,
-    username: 'BotUsername', // Use your Minecraft account or any name (if cracked)
+    username: 'SEXY_PRADHUMAN', // Use your Minecraft account or any name (if cracked)
     version: false,
   });
 
